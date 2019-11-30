@@ -1105,13 +1105,13 @@
 1104,二叉树寻路,59.80%,中等,1104,Path In Zigzag Labelled Binary Tree,71.00%,Medium
 1105,填充书架,47.40%,中等,1105,Filling Bookcase Shelves,54.10%,Medium
 1106,解析布尔表达式,51.50%,困难,1106,Parsing A Boolean Expression,58.80%,Hard
-1107,,,,1107,New Users Daily Count,45.20%,Medium
+1107,每日新用户统计    ,39.50%,中等,1107,New Users Daily Count,45.20%,Medium
 1108,IP 地址无效化,79.30%,简单,1108,Defanging an IP Address,87.20%,Easy
 1109,航班预订统计,26.20%,中等,1109,Corporate Flight Bookings,47.60%,Medium
 1110,删点成林,50.70%,中等,1110,Delete Nodes And Return Forest,61.90%,Medium
 1111,有效括号的嵌套深度,63.50%,中等,1111,Maximum Nesting Depth of Two Valid Parentheses Strings,63.90%,Medium
-1112,,,,1112,Highest Grade For Each Student,59.20%,Medium
-1113,,,,1113,Reported Posts,67.30%,Easy
+1112,每位学生的最高成绩    ,56.10%,中等,1112,Highest Grade For Each Student,59.20%,Medium
+1113,Reported Posts    ,58.60%,简单,1113,Reported Posts,67.30%,Easy
 1114,按序打印,54.40%,简单,1114,Print in Order,59.10%,Easy
 1115,交替打印FooBar,57.80%,中等,1115,Print FooBar Alternately,59.00%,Medium
 1116,打印零与奇偶数,43.10%,中等,1116,Print Zero Even Odd,55.50%,Medium
@@ -1124,8 +1124,8 @@
 1123,最深叶节点的最近公共祖先,55.30%,中等,1123,Lowest Common Ancestor of Deepest Leaves,65.10%,Medium
 1124,表现良好的最长时间段,13.50%,中等,1124,Longest Well-Performing Interval,28.70%,Medium
 1125,最小的必要团队,33.50%,困难,1125,Smallest Sufficient Team,45.60%,Hard
-1126,,,,1126,Active Businesses New,67.50%,Medium
-1127,,,,1127,User Purchase Platform New,47.30%,Hard
+1126,Active Businesses    ,50.20%,中等,1126,Active Businesses New,67.50%,Medium
+1127,User Purchase Platform    ,43.80%,困难,1127,User Purchase Platform New,47.30%,Hard
 1128,等价多米诺骨牌对的数量    ,35.60%,简单,1128,Number of Equivalent Domino Pairs New,36.30%,Easy
 1129,颜色交替的最短路径    ,27.40%,中等,1129,Shortest Path with Alternating Colors New,29.50%,Medium
 1130,叶值的最小代价生成树    ,52.30%,中等,1130,Minimum Cost Tree From Leaf Values New,49.50%,Medium
@@ -1192,9 +1192,80 @@
 1191,K 次串联后最大子数组之和    ,21.30%,中等,1191,K-Concatenation Maximum Sum    ,,Medium
 1192,查找集群内的「关键连接」    ,25.70%,困难,1192,Critical Connections in a Network    ,,Hard
 1193,每月交易 I    新,36.40%,中等,1193,Monthly Transactions I    New,,Medium
-,,,,1194,Tournament Winners    New,,Hard
-,,,,1195,Fizz Buzz Multithreaded    New,,Medium
-,,,,1196,How Many Apples Can You Put into the Basket    ,,Easy
-,,,,1197,Minimum Knight Moves    ,,Medium
-,,,,1198,Find Smallest Common Element in All Rows    ,,Medium
-,,,,1199,Minimum Time to Build Blocks    ,,Hard
+1194,锦标赛优胜者    ,40.00%,困难,,Tournament Winners    New,,Hard
+1195,交替打印字符串    ,57.20%,中等,,Fizz Buzz Multithreaded    New,,Medium
+1196,最多可以买到的苹果数量    ,67.10%,简单,,How Many Apples Can You Put into the Basket    ,,Easy
+1197,进击的骑士    ,26.50%,中等,,Minimum Knight Moves    ,,Medium
+1198,找出所有行中最小公共元素    ,69.70%,中等,,Find Smallest Common Element in All Rows    ,,Medium
+1199,建造街区的最短时间    ,32.10%,困难,,Minimum Time to Build Blocks    ,,Hard
+1200,最小绝对差    ,63.20%,简单,,Minimum Absolute Difference    ,66.00%,Easy
+1201,丑数 III    ,17.20%,中等,,Ugly Number III    ,25.10%,Medium
+1202,交换字符串中的元素    ,25.20%,中等,,Smallest String With Swaps    ,41.80%,Medium
+1203,项目管理    ,30.40%,困难,,Sort Items by Groups Respecting Dependencies    ,44.60%,Hard
+1204,Last Person to Fit in the Elevator    ,44.30%,中等,,Last Person to Fit in the Elevator    ,68.70%,Medium
+1205,每月交易II    ,38.60%,中等,,Monthly Transactions II    ,45.70%,Medium
+1206,设计跳表    ,49.80%,困难,,Design Skiplist    ,59.60%,Hard
+1207,独一无二的出现次数    ,66.40%,简单,,Unique Number of Occurrences    ,72.20%,Easy
+1208,尽可能使字符串相等    ,28.10%,中等,,Get Equal Substrings Within Budget    ,37.10%,Medium
+1209,删除字符串中的所有相邻重复项 II    ,50.40%,中等,,Remove All Adjacent Duplicates in String II    ,56.50%,Medium
+1210,穿过迷宫的最少移动次数    ,41.50%,困难,,Minimum Moves to Reach Target with Rotations    ,43.20%,Hard
+1211,Queries Quality and Percentage    ,67.50%,简单,,Queries Quality and Percentage    ,66.70%,Easy
+1212,Team Scores in Football Tournament    ,54.70%,中等,,Team Scores in Football Tournament    ,53.80%,Medium
+1213,三个有序数组的交集    ,74.40%,简单,,Intersection of Three Sorted Arrays    ,77.10%,Easy
+1214,查找两棵二叉搜索树之和    ,59.20%,中等,,Two Sum BSTs    ,65.30%,Medium
+1215,步进数    ,33.40%,中等,,Stepping Numbers    ,36.60%,Medium
+1216,验证回文字符串 III    ,45.40%,困难,,Valid Palindrome III    ,42.60%,Hard
+1217,玩筹码    ,65.50%,简单,,Play with Chips    ,63.60%,Easy
+1218,最长定差子序列    ,32.80%,中等,,Longest Arithmetic Subsequence of Given Difference    ,39.60%,Medium
+1219,黄金矿工    ,60.00%,中等,,Path with Maximum Gold    ,61.80%,Medium
+1220,统计元音字母序列的数目    ,52.40%,困难,,Count Vowels Permutation    ,51.30%,Hard
+1221,分割平衡字符串    ,76.10%,简单,,Split a String in Balanced Strings    ,79.10%,Easy
+1222,可以攻击国王的皇后    ,62.10%,中等,,Queens That Can Attack the King    ,68.50%,Medium
+1223,掷骰子模拟    ,39.40%,中等,,Dice Roll Simulation    ,42.40%,Medium
+1224,最大相等频率    ,27.70%,困难,,Maximum Equal Frequency    ,31.80%,Hard
+1225,报告系统状态的连续日期    ,59.40%,困难,,Report Contiguous Dates    ,62.80%,Hard
+1226,哲学家进餐    ,53.30%,中等,,The Dining Philosophers    ,45.90%,Medium
+1227,飞机座位分配概率    ,63.30%,中等,,Airplane Seat Assignment Probability    ,60.20%,Medium
+1228,等差数列中缺失的数字    ,53.10%,简单,,Missing Number In Arithmetic Progression    ,52.50%,Easy
+1229,安排会议日程    ,30.50%,中等,,Meeting Scheduler    ,42.20%,Medium
+1230,抛掷硬币    ,38.40%,中等,,Toss Strange Coins    ,44.20%,Medium
+1231,分享巧克力    ,53.20%,困难,,Divide Chocolate    ,50.60%,Hard
+1232,缀点成线    ,47.80%,简单,,Check If It Is a Straight Line    ,47.20%,Easy
+1233,删除子文件夹    ,39.70%,中等,,Remove Sub-Folders from the Filesystem    ,54.30%,Medium
+1234,替换子串得到平衡字符串    ,26.20%,中等,,Replace the Substring for Balanced String    ,30.60%,Medium
+1235,规划兼职工作    ,40.60%,困难,,Maximum Profit in Job Scheduling    ,44.10%,Hard
+1236,Web Crawler    ,48.60%,中等,,Web Crawler    ,65.20%,Medium
+1237,找出给定方程的正整数解    ,67.20%,简单,,Find Positive Integer Solution for a Given Equation    ,67.10%,Easy
+1238,循环码排列    ,57.90%,中等,,Circular Permutation in Binary Representation    ,58.90%,Medium
+1239,串联字符串的最大长度    ,34.40%,中等,,Maximum Length of a Concatenated String with Unique Characters    ,41.90%,Medium
+1240,铺瓷砖    ,44.30%,困难,,Tiling a Rectangle with the Fewest Squares    ,48.80%,Hard
+1241,每个帖子的评论数    ,65.40%,简单,,Number of Comments per Post    ,71.90%,Easy
+1242,多线程网页爬虫    ,38.30%,中等,,Web Crawler Multithreaded    ,46.40%,Medium
+1243,数组变换    ,50.10%,简单,,Array Transformation    ,52.30%,Easy
+1244,力扣排行榜    ,47.80%,中等,,Design A Leaderboard    ,53.80%,Medium
+1245,树的直径    ,41.20%,中等,,Tree Diameter    ,54.20%,Medium
+1246,删除回文子数组    ,41.20%,困难,,Palindrome Removal    ,42.90%,Hard
+1247,交换字符使得字符串相同    ,50.50%,中等,,Minimum Swaps to Make Strings Equal    ,57.30%,Medium
+1248,统计「优美子数组」    ,46.40%,中等,,Count Number of Nice Subarrays    ,53.10%,Medium
+1249,移除无效的括号    ,52.00%,中等,,Minimum Remove to Make Valid Parentheses    ,59.10%,Medium
+1250,检查「好数组」    ,48.00%,困难,,Check If It Is a Good Array    ,51.30%,Hard
+1251,Average Selling Price    ,77.40%,简单,,Average Selling Price    ,81.80%,Easy
+1252,奇数值单元格的数目    ,74.60%,简单,,Cells with Odd Values in a Matrix    ,78.40%,Easy
+1253,重构 2 行二进制矩阵    ,33.40%,中等,,Reconstruct a 2-Row Binary Matrix    ,38.10%,Medium
+1254,统计封闭岛屿的数目    ,56.60%,中等,,Number of Closed Islands    ,59.80%,Medium
+1255,得分最高的单词集合    ,64.90%,困难,,Maximum Score Words Formed by Letters    ,70.10%,Hard
+1256,加密数字    ,57.10%,中等,,Encode Number    ,62.90%,Medium
+1257,最小公共区域    ,48.00%,中等,,Smallest Common Region    ,53.40%,Medium
+1258,近义词句子    ,55.00%,中等,,Synonymous Sentences    ,58.50%,Medium
+1259,不相交的握手    ,44.00%,困难,,Handshakes That Don't Cross    ,51.50%,Hard
+1260,二维网格迁移    ,56.80%,简单,,Shift 2D Grid    ,59.10%,Easy
+1261,在受污染的二叉树中查找元素    ,68.70%,中等,,Find Elements in a Contaminated Binary Tree    ,72.40%,Medium
+1262,可被三整除的最大和    ,39.80%,中等,,Greatest Sum Divisible by Three    ,40.30%,Medium
+1263,推箱子    ,39.40%,困难,,Minimum Moves to Move a Box to Their Target Location    ,36.60%,Hard
+1264,Page Recommendations    ,52.70%,中等,,Page Recommendations    ,62.90%,Medium
+1265,Print Immutable Linked List in Reverse    新,95.70%,中等,,Print Immutable Linked List in Reverse    New,94.60%,Medium
+1266,访问所有点的最小时间    ,78.50%,简单,,Minimum Time Visiting All Points    ,80.20%,Easy
+1267,统计参与通信的服务器    ,58.90%,中等,,Count Servers that Communicate    ,58.50%,Medium
+1268,搜索推荐系统    ,46.80%,中等,,Search Suggestions System    ,50.00%,Medium
+1269,停在原地的方案数    ,35.40%,困难,,Number of Ways to Stay in the Same Place After Some Steps    ,39.50%,Hard
+1270,All People Report to the Given Manager    新,87.50%,中等,,All People Report to the Given Manager    New,87.10%,Medium
