@@ -1106,13 +1106,13 @@
 | 1104  | [二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | 59.8%      | **中等** |
 | 1105  | [填充书架](https://leetcode-cn.com/problems/filling-bookcase-shelves) | 47.4%      | **中等** |
 | 1106  | [解析布尔表达式](https://leetcode-cn.com/problems/parsing-a-boolean-expression) | 51.5%      | **困难** |
-|       |                                                              |            |          |
+| 1107  | [每日新用户统计](https://leetcode-cn.com/problems/new-users-daily-count) | 39.5%      | **中等** |
 | 1108  | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address) | 79.3%      | **简单** |
 | 1109  | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings) | 26.2%      | **中等** |
 | 1110  | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest) | 50.7%      | **中等** |
 | 1111  | [有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | 63.5%      | **中等** |
-|       |                                                              |            |          |
-|       |                                                              |            |          |
+| 1112  | [每位学生的最高成绩](https://leetcode-cn.com/problems/highest-grade-for-each-student) | 56.3%      | **中等** |
+| 1113  | [Reported Posts](https://leetcode-cn.com/problems/reported-posts) | 58.7%      | **简单** |
 | 1114  | [按序打印](https://leetcode-cn.com/problems/print-in-order)  | 54.4%      | **简单** |
 | 1115  | [交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately) | 57.8%      | **中等** |
 | 1116  | [打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd) | 43.1%      | **中等** |
@@ -1137,44 +1137,133 @@
 | 1138  | [字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path) | 33.6%      | **中等** |
 | 1139  | [最大的以 1 为边界的正方形](https://leetcode-cn.com/problems/largest-1-bordered-square) | 38.4%      | **中等** |
 | 1140  | [石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii) | 52.9%      | **中等** |
+| 1141  | [User Activity for the Past 30 Days I](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i) | 60.3%      | **简单** |
+| 1142  | [过去30天的用户活动 II](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii) | 37.3%      | **简单** |
+| 1143  | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | 58.0%      | **中等** |
 | 1144  | [递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag) | 36.2%      | **中等** |
 | 1145  | [二叉树着色游戏](https://leetcode-cn.com/problems/binary-tree-coloring-game) | 33.2%      | **中等** |
 | 1146  | [快照数组](https://leetcode-cn.com/problems/snapshot-array)  | 18.0%      | **中等** |
-| 1147  | [段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition) | 49.8%      | **困难** |
+| 1147  | [段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition) | 50.6%      | **困难** |
+| 1148  | [文章浏览 I](https://leetcode-cn.com/problems/article-views-i) | 77.7%      | **简单** |
+| 1149  | [Article Views II](https://leetcode-cn.com/problems/article-views-ii) | 40.4%      | **中等** |
 | 1150  | [检查一个数是否在数组中占绝大多数](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) | 64.9%      | **简单** |
-| 1151  | [最少交换次数来组合所有的 1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together) | 33.7%      | **中等** |
-| 1152  | [用户网站访问行为分析](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern) | 25.8%      | **中等** |
-| 1153  | [字符串转化](https://leetcode-cn.com/problems/string-transforms-into-another-string) | 26.0%      | **困难** |
-| 1154  | [一年中的第几天](https://leetcode-cn.com/problems/ordinal-number-of-date) | 50.0%      | **简单** |
-| 1155  | [掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) | 41.0%      | **中等** |
-| 1156  | [单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring) | 39.9%      | **中等** |
-| 1157  | [子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray) | 20.4%      | **困难** |
-| 1160  | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | 61.4%      | **简单** |
-| 1161  | [最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) | 63.5%      | **中等** |
-| 1162  | [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | 29.8%      | **中等** |
-| 1163  | [按字典序排在最后的子串](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) | 21.9%      | **困难** |
-| 1165  | [单行键盘](https://leetcode-cn.com/problems/single-row-keyboard) | 83.7%      | **简单** |
-| 1166  | [设计文件系统](https://leetcode-cn.com/problems/design-file-system) | 48.2%      | **中等** |
-| 1167  | [连接棒材的最低费用](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) | 28.9%      | **中等** |
-| 1168  | [水资源分配优化](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village) | 33.4%      | **困难** |
-| 1169  | [查询无效交易](https://leetcode-cn.com/problems/invalid-transactions) | 24.7%      | **简单** |
-| 1170  | [比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) | 55.7%      | **简单** |
-| 1171  | [从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | 28.3%      | **中等** |
-| 1172  | [餐盘栈](https://leetcode-cn.com/problems/dinner-plate-stacks) | 21.1%      | **困难** |
-| 1175  | [质数排列](https://leetcode-cn.com/problems/prime-arrangements) | 43.0%      | **简单** |
-| 1176  | [健身计划评估](https://leetcode-cn.com/problems/diet-plan-performance) | 36.6%      | **简单** |
-| 1177  | [构建回文串检测](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) | 17.9%      | **中等** |
-| 1178  | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) | 22.0%      | **困难** |
-| 1180  | [统计只含单一字母的子串](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter) | 70.3%      | **简单** |
-| 1181  | [前后拼接](https://leetcode-cn.com/problems/before-and-after-puzzle) | 32.5%      | **中等** |
-| 1182  | [与目标颜色间的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-target-color) | 22.8%      | **中等** |
-| 1183  | [矩阵中 1 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-ones) | 31.2%      | **困难** |
-| 1184  | [公交站间的距离](https://leetcode-cn.com/problems/distance-between-bus-stops) | 54.3%      | **简单** |
-| 1185  | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | 56.6%      | **简单** |
-| 1186  | [删除一次得到子数组最大和](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) | 21.4%      | **中等** |
-| 1187  | [使数组严格递增](https://leetcode-cn.com/problems/make-array-strictly-increasing) | 31.5%      | **困难** |
-| 1189  | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons) | 60.6%      | **简单** |
-| 1190  | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 43.7%      | **中等** |
-| 1191  | [K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) | 21.3%      | **中等** |
-| 1192  | [查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network) | 25.7%      | **困难** |
-| 1193  | [每月交易 I](https://leetcode-cn.com/problems/monthly-transactions-i)    **新** | 36.4%      | **中等** |
+| 1151  | [最少交换次数来组合所有的 1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together) | 37.3%      | **中等** |
+| 1152  | [用户网站访问行为分析](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern) | 27.9%      | **中等** |
+| 1153  | [字符串转化](https://leetcode-cn.com/problems/string-transforms-into-another-string) | 28.9%      | **困难** |
+| 1154  | [一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year) | 51.3%      | **简单** |
+| 1155  | [掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) | 41.2%      | **中等** |
+| 1156  | [单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring) | 40.5%      | **中等** |
+| 1157  | [子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray) | 22.6%      | **困难** |
+| 1158  | [Market Analysis I](https://leetcode-cn.com/problems/market-analysis-i) | 53.3%      | **中等** |
+| 1159  | [Market Analysis II](https://leetcode-cn.com/problems/market-analysis-ii) | 48.1%      | **困难** |
+| 1160  | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | 63.4%      | **简单** |
+| 1161  | [最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) | 65.6%      | **中等** |
+| 1162  | [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | 36.1%      | **中等** |
+| 1163  | [按字典序排在最后的子串](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) | 21.5%      | **困难** |
+| 1164  | [Product Price at a Given Date](https://leetcode-cn.com/problems/product-price-at-a-given-date) | 55.3%      | **中等** |
+| 1165  | [单行键盘](https://leetcode-cn.com/problems/single-row-keyboard) | 80.4%      | **简单** |
+| 1166  | [设计文件系统](https://leetcode-cn.com/problems/design-file-system) | 47.2%      | **中等** |
+| 1167  | [连接棒材的最低费用](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) | 29.4%      | **中等** |
+| 1168  | [水资源分配优化](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village) | 36.4%      | **困难** |
+| 1169  | [查询无效交易](https://leetcode-cn.com/problems/invalid-transactions) | 27.0%      | **中等** |
+| 1170  | [比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) | 58.2%      | **简单** |
+| 1171  | [从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | 31.8%      | **中等** |
+| 1172  | [餐盘栈](https://leetcode-cn.com/problems/dinner-plate-stacks) | 20.6%      | **困难** |
+| 1173  | [Immediate Food Delivery I](https://leetcode-cn.com/problems/immediate-food-delivery-i) | 79.3%      | **简单** |
+| 1174  | [Immediate Food Delivery II](https://leetcode-cn.com/problems/immediate-food-delivery-ii) | 56.5%      | **中等** |
+| 1175  | [质数排列](https://leetcode-cn.com/problems/prime-arrangements) | 45.5%      | **简单** |
+| 1176  | [健身计划评估](https://leetcode-cn.com/problems/diet-plan-performance) | 38.8%      | **简单** |
+| 1177  | [构建回文串检测](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) | 18.5%      | **中等** |
+| 1178  | [猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) | 23.6%      | **困难** |
+| 1179  | [重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table) | 63.6%      | **简单** |
+| 1180  | [统计只含单一字母的子串](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter) | 72.1%      | **简单** |
+| 1181  | [前后拼接](https://leetcode-cn.com/problems/before-and-after-puzzle) | 33.9%      | **中等** |
+| 1182  | [与目标颜色间的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-target-color) | 26.8%      | **中等** |
+| 1183  | [矩阵中 1 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-ones) | 39.4%      | **困难** |
+| 1184  | [公交站间的距离](https://leetcode-cn.com/problems/distance-between-bus-stops) | 55.2%      | **简单** |
+| 1185  | [一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week) | 57.8%      | **简单** |
+| 1186  | [删除一次得到子数组最大和](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) | 26.2%      | **中等** |
+| 1187  | [使数组严格递增](https://leetcode-cn.com/problems/make-array-strictly-increasing) | 34.4%      | **困难** |
+| 1188  | [设计有限阻塞队列](https://leetcode-cn.com/problems/design-bounded-blocking-queue) | 61.0%      | **中等** |
+| 1189  | [“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons) | 61.4%      | **简单** |
+| 1190  | [反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | 48.1%      | **中等** |
+| 1191  | [K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) | 22.7%      | **中等** |
+| 1192  | [查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network) | 30.5%      | **困难** |
+| 1193  | [每月交易 I](https://leetcode-cn.com/problems/monthly-transactions-i) | 58.8%      | **中等** |
+| 1194  | [锦标赛优胜者](https://leetcode-cn.com/problems/tournament-winners) | 39.7%      | **困难** |
+| 1195  | [交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) | 57.1%      | **中等** |
+| 1196  | [最多可以买到的苹果数量](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket) | 67.1%      | **简单** |
+| 1197  | [进击的骑士](https://leetcode-cn.com/problems/minimum-knight-moves) | 26.7%      | **中等** |
+| 1198  | [找出所有行中最小公共元素](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows) | 69.9%      | **中等** |
+| 1199  | [建造街区的最短时间](https://leetcode-cn.com/problems/minimum-time-to-build-blocks) | 32.1%      | **困难** |
+| 1200  | [最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference) | 63.3%      | **简单** |
+| 1201  | [丑数 III](https://leetcode-cn.com/problems/ugly-number-iii) | 17.3%      | **中等** |
+| 1202  | [交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps) | 25.3%      | **中等** |
+| 1203  | [项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies) | 30.4%      | **困难** |
+| 1204  | [Last Person to Fit in the Elevator](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator) | 45.2%      | **中等** |
+| 1205  | [每月交易II](https://leetcode-cn.com/problems/monthly-transactions-ii) | 39.2%      | **中等** |
+| 1206  | [设计跳表](https://leetcode-cn.com/problems/design-skiplist) | 50.0%      | **困难** |
+| 1207  | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences) | 66.4%      | **简单** |
+| 1208  | [尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) | 28.3%      | **中等** |
+| 1209  | [删除字符串中的所有相邻重复项 II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii) | 50.5%      | **中等** |
+| 1210  | [穿过迷宫的最少移动次数](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations) | 41.5%      | **困难** |
+| 1211  | [Queries Quality and Percentage](https://leetcode-cn.com/problems/queries-quality-and-percentage) | 67.0%      | **简单** |
+| 1212  | [Team Scores in Football Tournament](https://leetcode-cn.com/problems/team-scores-in-football-tournament) | 49.8%      | **中等** |
+| 1213  | [三个有序数组的交集](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays) | 74.6%      | **简单** |
+| 1214  | [查找两棵二叉搜索树之和](https://leetcode-cn.com/problems/two-sum-bsts) | 59.2%      | **中等** |
+| 1215  | [步进数](https://leetcode-cn.com/problems/stepping-numbers)  | 33.4%      | **中等** |
+| 1216  | [验证回文字符串 III](https://leetcode-cn.com/problems/valid-palindrome-iii) | 45.6%      | **困难** |
+| 1217  | [玩筹码](https://leetcode-cn.com/problems/play-with-chips)   | 65.6%      | **简单** |
+| 1218  | [最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | 32.8%      | **中等** |
+| 1219  | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold) | 60.2%      | **中等** |
+| 1220  | [统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation) | 52.4%      | **困难** |
+| 1221  | [分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) | 76.1%      | **简单** |
+| 1222  | [可以攻击国王的皇后](https://leetcode-cn.com/problems/queens-that-can-attack-the-king) | 62.1%      | **中等** |
+| 1223  | [掷骰子模拟](https://leetcode-cn.com/problems/dice-roll-simulation) | 39.4%      | **中等** |
+| 1224  | [最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency) | 27.8%      | **困难** |
+| 1225  | [报告系统状态的连续日期](https://leetcode-cn.com/problems/report-contiguous-dates) | 59.4%      | **困难** |
+| 1226  | [哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers) | 53.4%      | **中等** |
+| 1227  | [飞机座位分配概率](https://leetcode-cn.com/problems/airplane-seat-assignment-probability) | 63.6%      | **中等** |
+| 1228  | [等差数列中缺失的数字](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression) | 53.1%      | **简单** |
+| 1229  | [安排会议日程](https://leetcode-cn.com/problems/meeting-scheduler) | 30.6%      | **中等** |
+| 1230  | [抛掷硬币](https://leetcode-cn.com/problems/toss-strange-coins) | 38.4%      | **中等** |
+| 1231  | [分享巧克力](https://leetcode-cn.com/problems/divide-chocolate) | 53.3%      | **困难** |
+| 1232  | [缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) | 47.9%      | **简单** |
+| 1233  | [删除子文件夹](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem) | 39.8%      | **中等** |
+| 1234  | [替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string) | 26.1%      | **中等** |
+| 1235  | [规划兼职工作](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling) | 40.7%      | **困难** |
+| 1236  | [Web Crawler](https://leetcode-cn.com/problems/web-crawler)  | 48.6%      | **中等** |
+| 1237  | [找出给定方程的正整数解](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation) | 67.1%      | **简单** |
+| 1238  | [循环码排列](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation) | 58.0%      | **中等** |
+| 1239  | [串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | 34.3%      | **中等** |
+| 1240  | [铺瓷砖](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares) | 44.2%      | **困难** |
+| 1241  | [每个帖子的评论数](https://leetcode-cn.com/problems/number-of-comments-per-post) | 65.6%      | **简单** |
+| 1242  | [多线程网页爬虫](https://leetcode-cn.com/problems/web-crawler-multithreaded) | 38.3%      | **中等** |
+| 1243  | [数组变换](https://leetcode-cn.com/problems/array-transformation) | 50.1%      | **简单** |
+| 1244  | [力扣排行榜](https://leetcode-cn.com/problems/design-a-leaderboard) | 47.8%      | **中等** |
+| 1245  | [树的直径](https://leetcode-cn.com/problems/tree-diameter)   | 40.9%      | **中等** |
+| 1246  | [删除回文子数组](https://leetcode-cn.com/problems/palindrome-removal) | 41.2%      | **困难** |
+| 1247  | [交换字符使得字符串相同](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal) | 50.5%      | **中等** |
+| 1248  | [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays) | 46.3%      | **中等** |
+| 1249  | [移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses) | 52.1%      | **中等** |
+| 1250  | [检查「好数组」](https://leetcode-cn.com/problems/check-if-it-is-a-good-array) | 47.9%      | **困难** |
+| 1251  | [Average Selling Price](https://leetcode-cn.com/problems/average-selling-price) | 78.5%      | **简单** |
+| 1252  | [奇数值单元格的数目](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix) | 74.7%      | **简单** |
+| 1253  | [重构 2 行二进制矩阵](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix) | 33.4%      | **中等** |
+| 1254  | [统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands) | 56.8%      | **中等** |
+| 1255  | [得分最高的单词集合](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters) | 64.7%      | **困难** |
+| 1256  | [加密数字](https://leetcode-cn.com/problems/encode-number)   | 57.2%      | **中等** |
+| 1257  | [最小公共区域](https://leetcode-cn.com/problems/smallest-common-region) | 48.1%      | **中等** |
+| 1258  | [近义词句子](https://leetcode-cn.com/problems/synonymous-sentences) | 54.2%      | **中等** |
+| 1259  | [不相交的握手](https://leetcode-cn.com/problems/handshakes-that-dont-cross) | 43.9%      | **困难** |
+| 1260  | [二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid) | 56.8%      | **简单** |
+| 1261  | [在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree) | 68.4%      | **中等** |
+| 1262  | [可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three) | 39.9%      | **中等** |
+| 1263  | [推箱子](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | 39.5%      | **困难** |
+| 1264  | [Page Recommendations](https://leetcode-cn.com/problems/page-recommendations) | 52.6%      | **中等** |
+| 1265  | [Print Immutable Linked List in Reverse](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) | 95.8%      | **中等** |
+| 1266  | [访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points) | 78.3%      | **简单** |
+| 1267  | [统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate) | 59.0%      | **中等** |
+| 1268  | [搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system) | 47.0%      | **中等** |
+| 1269  | [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | 35.4%      | **困难** |
+| 1270  | [All People Report to the Given Manager](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager)  **新** | 90.9%      | **中等** |
