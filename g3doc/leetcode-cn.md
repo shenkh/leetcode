@@ -1266,4 +1266,32 @@
 | 1267  | [统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate) | 59.0%      | **中等** |
 | 1268  | [搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system) | 47.0%      | **中等** |
 | 1269  | [停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | 35.4%      | **困难** |
-| 1270  | [All People Report to the Given Manager](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager)  **新** | 90.9%      | **中等** |
+| 1270 | [All People Report to the Given Manager](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager) | 86.0% | **中等** |
+| 1271 | [十六进制魔术数字](https://leetcode-cn.com/problems/hexspeak) | 43.8% | **简单** |
+| 1272 | [删除区间](https://leetcode-cn.com/problems/remove-interval) | 46.6% | **中等** |
+| 1273 | [删除树节点](https://leetcode-cn.com/problems/delete-tree-nodes) | 48.9% | **中等** |
+| 1274 | [矩形内船只的数目](https://leetcode-cn.com/problems/number-of-ships-in-a-rectangle) | 52.8% | **困难** |
+| 1275 | [找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game) | 50.4% | **简单** |
+| 1276 | [不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients) | 48.5% | **中等** |
+| 1277 | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones) | 63.2% | **中等** |
+| 1278 | [分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii) | 52.1% | **困难** |
+| 1279 | [Traffic Light Controlled Intersection](https://leetcode-cn.com/problems/traffic-light-controlled-intersection) | 55.0% | **简单** |
+| 1280 | [学生们参加各科测试的次数](https://leetcode-cn.com/problems/students-and-examinations) | 50.3% | **简单** |
+| 1281 | [整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | 80.8% | **简单** |
+| 1282 | [用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) | 78.7% | **中等** |
+| 1283 | [使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold) | 29.1% | **中等** |
+| 1284 | [转化为全零矩阵的最少反转次数](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | 64.1% | **困难** |
+| 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode-cn.com/problems/find-the-start-and-end-number-of-continuous-ranges) | 89.7% | **中等** |
+| 1286 | [字母组合迭代器](https://leetcode-cn.com/problems/iterator-for-combination) | 53.5% | **中等** |
+| 1287 | [有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array) | 60.4% | **简单** |
+| 1288 | [删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals) | 52.8% | **中等** |
+| 1289 | [下降路径最小和 II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | 54.1% | **困难** |
+| 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) | 80.2% | **简单** |
+| 1291 | [顺次数](https://leetcode-cn.com/problems/sequential-digits) | 45.2% | **中等** |
+| 1292 | [元素和小于等于阈值的正方形的最大边长](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | 37.6% | **中等** |
+| 1293 | [网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | 34.5% | **困难** |
+| 1294 | [Weather Type in Each Country](https://leetcode-cn.com/problems/weather-type-in-each-country)  **新** | 69.4% | **简单** |
+| 1295 | [统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits) | 83.7% | **简单** |
+| 1296 | [划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | 39.1% | **中等** |
+| 1297 | [子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring) | 39.4% | **中等** |
+| 1298 | [你能从盒子里获得的最大糖果数](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes) | 55.2% | **困难** |

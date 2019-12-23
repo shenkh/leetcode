@@ -1276,5 +1276,25 @@
 | 1274  | [Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle) | 62.4%          | **Hard**       |
 | 1275  | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game) | 56.0%          | **Easy**       |
 | 1276  | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients) | 49.3%          | **Medium**     |
-| 1277  | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | 61.9%          | **Medium**     |
-| 1278  | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii) | 51.3%          | **Hard**       |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | 67.8% | **Medium** |
+| 1278 | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii) | 56.7% | **Hard**   |
+| 1279 | [Traffic Light Controlled Intersection](https://leetcode.com/problems/traffic-light-controlled-intersection) | 83.7% | **Easy**   |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | 72.1% | **Easy**   |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | 84.0% | **Easy**   |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | 84.8% | **Medium** |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | 38.4% | **Medium** |
+| 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | 70.0% | **Hard**   |
+| 1285 | [Find the Start and End Number of Continuous Ranges](https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges) | 86.0% | **Medium** |
+| 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination) | 64.8% | **Medium** |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array) | 60.7% | **Easy**   |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | 58.8% | **Medium** |
+| 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii) | 55.1% | **Hard**   |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | 83.3% | **Easy**   |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits) | 50.8% | **Medium** |
+| 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | 41.6% | **Medium** |
+| 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | 39.7% | **Hard**   |
+| 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country)  **New** | 69.8% | **Easy**   |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | 87.5% | **Easy**   |
+| 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | 46.8% | **Medium** |
+| 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring) | 42.4% | **Medium** |
+| 1298 | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes) | 58.5% | **Hard**   |
